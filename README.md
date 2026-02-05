@@ -1,3 +1,5 @@
+![Badge-Literalura](screenshots/Badge-Literalura.png)
+
 📚 Literalura – Catálogo de Libros
 
 Proyecto desarrollado en Java con Spring Boot que permite consultar libros desde la API de Gutendex y almacenarlos en una base de datos para su posterior consulta.
